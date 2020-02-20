@@ -1,4 +1,4 @@
 # WebGL-Practice
 
 ## Demo
-[View Demo](https://vison-lin.github.io/The-rabbit-and-the-turtle/The-rabbit-and-the-turtle.html)
+[View Demo](https://vison-lin.github.io/WebGL-Practice/WebGL/Project/giraffe/giraffe.html)
