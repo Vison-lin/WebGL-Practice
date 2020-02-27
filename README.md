@@ -13,11 +13,11 @@ I have designed and completes three projects using WebGL. Various mapping strate
 
 ## Demo
 
-giraffe demmo
+Giraffe Demo
 [View Demo](https://vison-lin.github.io/WebGL-Practice/WebGL/Project/giraffe/giraffe.html)
 <br/><br/>
-teapot demmo
+Teapot Demmo
 [View Demo](https://vison-lin.github.io/WebGL-Practice/WebGL/Project/teapot/Teapot.html)
 <br/><br/>
-ammo demmo
+Ammo Demmo
 [View Demo](https://vison-lin.github.io/WebGL-Practice/WebGL/Project/ammo/ammo.html)
