@@ -16,8 +16,8 @@ I have designed and completes three projects using WebGL. Various mapping strate
 Giraffe Demo
 [View Demo](https://vison-lin.github.io/WebGL-Practice/WebGL/Project/giraffe/giraffe.html)
 <br/><br/>
-Teapot Demmo
+Teapot Demo
 [View Demo](https://vison-lin.github.io/WebGL-Practice/WebGL/Project/teapot/Teapot.html)
 <br/><br/>
-Ammo Demmo
+Ammo Demo
 [View Demo](https://vison-lin.github.io/WebGL-Practice/WebGL/Project/ammo/ammo.html)
